@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\obj\Debug\oap_labs Kirillov.csprojAssemblyReference.cache
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\obj\Debug\oap_labs Kirillov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\bin\Debug\oap_labs Kirillov.exe.config
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\bin\Debug\oap_labs Kirillov.exe
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\bin\Debug\oap_labs Kirillov.pdb
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\obj\Debug\oap_labs Kirillov.exe
+C:\Users\User\source\repos\oap_labs Kirillov\oap_labs Kirillov\obj\Debug\oap_labs Kirillov.pdb
